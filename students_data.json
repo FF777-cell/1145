@@ -1,0 +1,14 @@
+{
+  "students": [
+    {
+      "student_id": "S202509051117181288",
+      "name": "梁家铭",
+      "age": 22,
+      "grade": "大四",
+      "class_name": "计科1223",
+      "courses": [],
+      "scores": {}
+    }
+  ],
+  "courses": []
+}
